@@ -1,8 +1,6 @@
 <h2>About the project</h2>
 
-<p><b>Photoplace</b> is a web app to upload big using the best way to upload big files to the server.<br/>
-
-👉 Live Demo: <a href='https://photoplace-jhonnovax.vercel.app/' target="_blank">Photoplace</a>
+<p>Web application to upload big using the best way to upload big files to the server.<br/>
 
 <h3>Tech Stack:</h3>
 
